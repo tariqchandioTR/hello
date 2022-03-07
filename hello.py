@@ -1,3 +1,4 @@
+
 #hello print("usrbinpython2 hello.py")
 
 #coding
@@ -341,7 +342,7 @@ def action():
 
         action()
 
-    print 50* '\033[1;94m-'
+    print 50* '\033[2;94m-'
 
     xxx = str(len(id))
 
